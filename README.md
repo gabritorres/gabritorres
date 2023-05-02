@@ -1,9 +1,9 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Gabriel Torres</h1>
 <h3 align="center">A passionate full stack developer from Spain</h3>
 <img align="right" alt="Coding" width"400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGZmZGE1YmFmMTI3M2MxNDA1NWUwNTI4ZTNmNjdjNTVkNmQ5NTg5YyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: gabrieltorresmartin13@gmail.com</h3>
 <p align="left">
 </p>
 
