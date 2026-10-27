@@ -1,11 +1,53 @@
+<div align="center">
+<img src="./hero.svg" width="100%" alt="Gabriel Torres — full-stack development and AI" />
+<br />
+<a href="https://www.gabritorres.dev"><img src="https://img.shields.io/badge/Portfolio-1c2940?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="mailto:gabritorresdev@gmail.com"><img src="https://img.shields.io/badge/Contact-1c2940?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact" /></a>
+</div>
 
-<h1 align="center">Hi 👋, I'm Gabriel Torres</h1>
-<h3 align="center">A passionate full stack developer from Spain</h3>
-<img align="right" alt="Coding" width"400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGZmZGE1YmFmMTI3M2MxNDA1NWUwNTI4ZTNmNjdjNTVkNmQ5NTg5YyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">
+<br />
 
-<h3 align="left">Connect with me: gabrieltorresmartin13@gmail.com</h3>
-<p align="left">
-</p>
+## Building across the stack
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+I'm a software engineer and full-stack developer from Spain. I build web products from interface to API, and enjoy connecting thoughtful user experiences with the systems behind them. My work spans web applications, SaaS, integrations, data and AI-assisted workflows.
+
+**Product thinking** · **Full-stack engineering** · **AI exploration**
+
+<br />
+
+## From idea to experience
+
+<img src="./workflow.svg" width="100%" alt="From idea to product: interfaces, systems, AI and automation" />
+
+<table>
+<tr><td width="50%" valign="top"><strong>01 / INTERFACES</strong><br /><br />Responsive applications, interactive experiences and design implementation.<br /><br /><sub>REACT · NEXT.JS · ASTRO · TYPESCRIPT · TAILWIND</sub></td>
+<td width="50%" valign="top"><strong>02 / SYSTEMS</strong><br /><br />APIs, integrations, application logic and data-driven services.<br /><br /><sub>NODE.JS · NESTJS · PYTHON · SQL · NOSQL</sub></td></tr>
+<tr><td width="50%" valign="top"><strong>03 / PRODUCTS</strong><br /><br />SaaS platforms, dashboards, content tools and workflows built around real needs.<br /><br /><sub>PRODUCT · ARCHITECTURE · USER EXPERIENCE</sub></td>
+<td width="50%" valign="top"><strong>04 / EXPLORATION</strong><br /><br />AI-assisted features, automation and experiments that turn ideas into useful tools.<br /><br /><sub>AI · AUTOMATION · DEVELOPER EXPERIENCE</sub></td></tr>
+</table>
+
+<br />
+
+## Tools of the trade
+
+<img src="https://skillicons.dev/icons?i=ts,js,python,java,react,nextjs,astro,tailwind,nodejs,nestjs,express,mongodb,mysql,firebase,aws,azure,git,github,postman,figma&perline=10&theme=dark" alt="TypeScript, JavaScript, Python, Java, React, Next.js, Astro, Tailwind CSS, Node.js, NestJS, Express, MongoDB, MySQL, Firebase, AWS, Azure, Git, GitHub, Postman and Figma" />
+
+<details>
+<summary><strong>More technologies and tools</strong></summary>
+<br />
+HTML · CSS · Java · Spring Boot · SQL Server · Oracle · Jest · Selenium · Bootstrap · Vite · Preact
+</details>
+
+<br />
+
+## A little more
+
+I enjoy solving complex problems, learning new tools and working with people who care about building useful things. Outside of code: sport, travel and games.
+
+<div align="center">
+<br />
+<strong>Have an idea? Let's make it real.</strong><br /><br />
+<a href="https://www.gabritorres.dev">Explore my portfolio ↗</a> &nbsp; · &nbsp; <a href="mailto:gabritorresdev@gmail.com">Get in touch ↗</a>
+<br /><br />
+<sub>GABRIEL TORRES · SOFTWARE ENGINEERING · SPAIN</sub>
+</div>
